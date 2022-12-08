@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mangesh-Wayal
 - 👀 I’m Android App Developer
 - 🌱 I’m currently learning ...
-- 📫 Mail me vinaykajale002@gmail.com
+- 📫 Mail me mangeshwayaleducational@gmail.com
 
 <!---
 Mangesh-Wayal/Mangesh-Wayal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
